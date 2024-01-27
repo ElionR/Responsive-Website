@@ -60,6 +60,7 @@ button:hover {
     color: var(--darkorange);
     background-color: transparent;
     border-color: var(--darkgray);
+    transition: 0.5s;
     
 }
 progress {
