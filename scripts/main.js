@@ -36,7 +36,6 @@ const nextButton = document.getElementById('nextBtn');
 
 const quotes = [
   "Do the most productive thing possible at every given moment― Tom Hopkins.",
-  "Your mind must be stronger than your feelings. ― Andrew Tate",
   "The soul becomes dyed with the color of its thoughts.―  Marcus Aurelius",
   "Just when you think it can't get any worse, it can. And just when you think it can't get any better, it can.―  Nicholas Sparks",
   "Believe you can and you're halfway there. - Theodore Roosevelt",
@@ -45,7 +44,8 @@ const quotes = [
   "Did you think the lion was sleeping because he didn't roar― Friedrich Schiller",
   "La familia es todo.― Hector Salamanca  ",
   "You can change what you do ,but you can't change what you want― Thomas Shelby",
-  "The man who goes to the gym every single day regardless of how he feels will always beat the man who goes to the gym when he feels like going to the gym.― Andrew Tate",
+  "He who is brave is free.",
+  "You have power over your mind – not outside events. Realize this, and you will find strength.", 
   "You have power over your mind — not outside events. Realize this, and you will find strength.―  Marcus Aurelius"
 ];
 
