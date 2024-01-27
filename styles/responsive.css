@@ -59,11 +59,14 @@
 .contact-info-text{
     border-bottom: dashed var(--darkgray);
     color: var(--darkorange);
-    width: 60vw;
+    width: 60%;
     margin-right: 0;
 }
 .service-text-title ,.service-text-body{
     word-break: break-all;
+}
+.contact-text{
+display: none;
 }
 }
 
@@ -77,6 +80,9 @@
         margin-top: 5vh;
         padding: 3rem;
     }
+    .contact-text{
+        display: block;
+        }
 }
 @media screen and (min-width: 800px){
     html {
@@ -100,9 +106,10 @@
         margin-right: 30vw;
     }
     .contact-info-email{
-        width: 60vw;
+        width: 60%;
         margin-right: 0vw;
     }
+
     
     
 }
